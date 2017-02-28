@@ -1,0 +1,9 @@
+D:\Projects\TestExcercises1\TestExcercises1Tests\bin\Debug\TestExcercises1Tests.dll
+D:\Projects\TestExcercises1\TestExcercises1Tests\bin\Debug\TestExcercises1Tests.pdb
+D:\Projects\TestExcercises1\TestExcercises1Tests\bin\Debug\TestExcercises1.exe
+D:\Projects\TestExcercises1\TestExcercises1Tests\bin\Debug\TestExcercises1.pdb
+D:\Projects\TestExcercises1\TestExcercises1Tests\obj\Debug\TestExcercises1Tests.csprojResolveAssemblyReference.cache
+D:\Projects\TestExcercises1\TestExcercises1Tests\obj\Debug\TestExcercises1Tests.dll
+D:\Projects\TestExcercises1\TestExcercises1Tests\obj\Debug\TestExcercises1Tests.pdb
+D:\Projects\TestExcercises1\TestExcercises1Tests\bin\Debug\TestExcercises1Tests.dll.CodeAnalysisLog.xml
+D:\Projects\TestExcercises1\TestExcercises1Tests\bin\Debug\TestExcercises1Tests.dll.lastcodeanalysissucceeded

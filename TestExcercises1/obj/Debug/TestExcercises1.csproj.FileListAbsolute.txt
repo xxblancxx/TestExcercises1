@@ -1,0 +1,5 @@
+D:\Projects\TestExcercises1\TestExcercises1\bin\Debug\TestExcercises1.exe.config
+D:\Projects\TestExcercises1\TestExcercises1\bin\Debug\TestExcercises1.exe
+D:\Projects\TestExcercises1\TestExcercises1\bin\Debug\TestExcercises1.pdb
+D:\Projects\TestExcercises1\TestExcercises1\obj\Debug\TestExcercises1.exe
+D:\Projects\TestExcercises1\TestExcercises1\obj\Debug\TestExcercises1.pdb
